@@ -314,24 +314,21 @@ AgentUX is not a solo effort. I invite collaborators to contribute to:
 
 Start here: [agentux.design/collaborate](https://agentux.design/collaborate)
 
-## 9. References
+## References
 
 - W3C. (2023). *WAI-ARIA Authoring Practices Guide*. [https://www.w3.org/TR/wai-aria-practices/](https://www.w3.org/TR/wai-aria-practices/)
 - W3C. (2023). *Web Content Accessibility Guidelines (WCAG) 2.2*. [https://www.w3.org/TR/WCAG22/](https://www.w3.org/TR/WCAG22/)
-- W3C. (2021). *WCAG 3.0 First Public Working Draft*. [https://w3c.github.io/wcag/guidelines/](https://w3c.github.io/wcag/guidelines/)
+- W3C. (2024). *W3C Accessibility Guidelines (WCAG) 3.0*. [https://www.w3.org/TR/wcag-3.0/](https://www.w3.org/TR/wcag-3.0/)
 - Nielsen, J. (1994). *Usability Heuristics for User Interface Design*. [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
-- Shneiderman, B. (1987). *Designing the User Interface: Strategies for Effective Human-Computer Interaction*. Addison-Wesley.
-- Smith, A., & Jones, B. (2023). *Agent-Based Interaction Models in HCI*. CHI 2023, ACM. [https://dl.acm.org/doi/10.1145/3544548](https://dl.acm.org/doi/10.1145/3544548)
-- Lee, C., & Patel, R. (2024). *Multimodal UX and Promptable Interfaces*. UIST 2024, ACM. [https://dl.acm.org/doi/10.1145/4242644](https://dl.acm.org/doi/10.1145/4242644)
-- Kim, S. et al. (2022). *Distributed Cognition for Machine Agents*. DIS 2022, ACM. [https://dl.acm.org/doi/10.1145/3471354](https://dl.acm.org/doi/10.1145/3471354)
-- Google. (2024). *Bard: AI-driven Conversational Agent*. [https://bard.google.com](https://bard.google.com)
-- Meta AI. (2024). *Cicero: Strategizing Agents for Diplomacy*. [https://ai.facebook.com/projects/cicero/](https://ai.facebook.com/projects/cicero/)
-- OpenAI. (2024). *ChatGPT Plugins and Assistants*. [https://openai.com/products/chatgpt-plugins](https://openai.com/products/chatgpt-plugins)
-- Microsoft. (2024). *Copilot in AI-enabled Products*. [https://www.microsoft.com/copilot](https://www.microsoft.com/copilot)
+- Shneiderman, B. (2016). *Designing the User Interface: Strategies for Effective Human-Computer Interaction (6th Edition)*. [https://www.pearson.com/en-us/subject-catalog/p/designing-the-user-interface-strategies-for-effective-human-computer-interaction/P200000003485/9780137503889](https://www.pearson.com/en-us/subject-catalog/p/designing-the-user-interface-strategies-for-effective-human-computer-interaction/P200000003485/9780137503889)
+- Google. (2024). *Gemini*. [https://gemini.google.com](https://gemini.google.com)
+- Meta AI. (2024). *Cicero: An AI agent that plays Diplomacy*. [https://ai.meta.com/research/cicero/](https://ai.meta.com/research/cicero/)
+- OpenAI. (2024). *Introducing the GPT Store*. [https://openai.com/index/introducing-the-gpt-store/](https://openai.com/index/introducing-the-gpt-store/)
+- Microsoft. (2024). *Microsoft Copilot*. [https://www.microsoft.com/copilot](https://www.microsoft.com/copilot)
 - SeleniumHQ. (2024). *Selenium WebDriver Documentation*. [https://www.selenium.dev/documentation/webdriver/](https://www.selenium.dev/documentation/webdriver/)
 - Puppeteer. (2024). *Puppeteer Documentation*. [https://pptr.dev](https://pptr.dev)
 - Playwright. (2024). *Playwright Documentation*. [https://playwright.dev](https://playwright.dev)
-- Goldfoot Lab. (2025). *Representative Simulations of AgentUX Patterns*.
+- Goldfoot Lab. (2025). *Representative Simulations of AgentUX Patterns*. *(Internal research document; not publicly available)
 
 ## 10. Appendices
 
