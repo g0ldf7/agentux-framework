@@ -7,12 +7,6 @@
 
 *This white paper is part of the [AgentUX Framework](https://github.com/g0ldf7/agentux-framework). Sharing is permitted with attribution. Commercial use and derivative works are not allowed.*
 
-# AgentUX: Designing the Next Generation of Dual-Mode Interfaces
-
-**Author**: Joel Goldfoot  
-**Version**: 1.0  
-**Date**: May 24, 2025
-
 ---
 
 ## Abstract
