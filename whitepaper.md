@@ -1,12 +1,11 @@
----
-title: AgentUX: Designing the Next Generation of Dual-Mode Interfaces
-author: Joel Goldfoot
-version: 1.0
-date: 2025-05-24
-license: CC BY-NC-ND 4.0
----
+# AgentUX: Designing the Next Generation of Dual-Mode Interfaces
 
-*This white paper is part of the [AgentUX Framework](https://github.com/YOUR_USERNAME/agentux-framework). It is licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License. Sharing with attribution is permitted; commercial use and derivative works are prohibited.*
+**Author**: Joel Goldfoot  
+**Version**: 1.0  
+**Date**: May 24, 2025  
+**License**: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+*This white paper is part of the [AgentUX Framework](https://github.com/g0ldf7/agentux-framework). Sharing is permitted with attribution. Commercial use and derivative works are not allowed.*
 
 # AgentUX: Designing the Next Generation of Dual-Mode Interfaces
 
