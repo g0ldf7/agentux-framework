@@ -13,7 +13,7 @@
 
 Interfaces are no longer designed solely for people.
 
-As intelligent AI agents become active participants—navigating, interpreting, and executing tasks—designers and engineers must rethink user experience at a fundamental level. This white paper introduces **AgentUX**, a new discipline that presents a unified paradigm for creating digital experiences that serve both human users and autonomous agents. I define AgentUX, articulate core principles, present a maturity model, and outline a rigorous compliance methodology. Finally, I offer a strategic roadmap and invite collaboration to standardize this emerging field.
+As intelligent AI agents become active participants in navigating, interpreting, and executing tasks, designers and engineers must rethink user experience at a fundamental level. This white paper introduces **AgentUX**, a new framework that presents a unified paradigm for creating digital experiences that serve both human users and autonomous agents. I define AgentUX, articulate core principles, present a maturity model, and outline a rigorous compliance methodology. Finally, I offer a strategic roadmap and invite collaboration to standardize this emerging field.
 
 ---
 
